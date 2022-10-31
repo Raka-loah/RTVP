@@ -1,3 +1,5 @@
+[English version click here!](https://github.com/Raka-loah/RTVP/blob/master/README_en.md)
+
 # WOW聊天框的Bad Apple
 
 10.0上线整了个烂活，用WOW自带聊天框播放转换成文字的Bad Apple视频帧。
