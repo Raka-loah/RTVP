@@ -1,0 +1,11 @@
+## Interface: 100000
+## Title: Raka's |cff00ff00Text-based Video Player|r
+## Notes: A nonsense addon to play ASCII-art video in your chat window.
+## Notes-zhCN: 在聊天窗播放文字视频的整活插件。
+## Author: Raka-loah
+## Version: 0.0.1
+## X-Website: https://lotc.cc/
+## URL: https://lotc.cc/
+
+core.lua
+video_frames.lua
