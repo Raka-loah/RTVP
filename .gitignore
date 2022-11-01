@@ -1,0 +1,5 @@
+input.mp4
+out*.png
+ffmpeg.exe
+generated_frames.lua
+generated_frames_color.lua
